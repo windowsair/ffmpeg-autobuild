@@ -1,3 +1,4 @@
+#test
 name: Build FFmpeg on push
 on:
   push:
